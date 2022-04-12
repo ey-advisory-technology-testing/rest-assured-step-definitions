@@ -5,9 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ey</groupId>
-    <artifactId>ngtp-kafka</artifactId>
-    <version>0.0.1</version>
-    <name>ngtp-kafka</name>
+    <artifactId>rest-assured-step-definitions</artifactId>
+    <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>14</maven.compiler.source>
